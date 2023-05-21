@@ -6,4 +6,4 @@ permalink: /contact
 
 # Contact
 
-You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+Contact me at - [shashankraturi4@gmail.com](mailto:shashankraturi4@gmail.com), or hit me up at [twitter](https://twitter.com/essaarre).

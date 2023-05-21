@@ -1,8 +1,6 @@
 ---
 layout: post
-title: 'Project Three'
+title: 'Text Classification'
 ---
 
-Donec condimentum a leo nec posuere. Vestibulum faucibus leo nec nisl varius vestibulum. Aenean vel quam semper, vestibulum augue at, rutrum ligula. Ut gravida, ex sit amet fringilla luctus, lorem quam mollis elit, et tristique leo urna non odio. Curabitur elementum viverra consequat. Vestibulum vitae dolor tristique, pellentesque metus non, suscipit nunc. Aenean id sem eu libero sodales dignissim eget quis quam. Phasellus quis lectus ac odio convallis luctus. Praesent sed ligula ipsum. Nullam ultricies nunc nec turpis porttitor elementum. Vestibulum vitae imperdiet elit, nec mattis magna. Vestibulum id neque nec turpis ullamcorper rutrum ac non ligula. Quisque nec pellentesque diam. Vestibulum at aliquam mi, vitae fringilla quam. Suspendisse potenti.
-
-{% include image.html url="http://www.gratisography.com" image="projects/proj-3/clothes.jpg" %}
+The Text Classification App is an innovative and intelligent software solution that leverages the power of machine learning algorithms to classify text data accurately and efficiently. With the exponential growth of digital content, organizations and individuals often struggle to manage and analyze large volumes of text data effectively. This app aims to address this challenge by providing an automated and scalable solution for text classification tasks.

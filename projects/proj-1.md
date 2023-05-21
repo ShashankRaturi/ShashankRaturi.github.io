@@ -1,9 +1,11 @@
 ---
 layout: post
-title: 'Project One'
+title: 'Blogs Management'
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
+A blogging website made on django framework and deployed with the help of heroku cloud. 
+AWS S3 bucket was earlier linked to store static files like profile picture of user. 
+This site will used to collect data from the user as this site is a part of blog 
+recommendation platform where the system will predict the user’s next blog prior it is even written.
 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
